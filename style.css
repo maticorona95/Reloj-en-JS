@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family:verdana;
+    background-color:#002345 ;
+    color: #ABCDEF;
+    }
+
+    h1{
+        text-align: center;
+        margin: 120px 0 20px 0;
+        color: white;
+    }
+
+legend{
+    font-size: 1.7rem ;
+    padding: 0 7px;
+
+}
+
+fieldset{
+    width: 350px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 5px;
+    padding-inline-start: 10px 30px;
+}
+
+
+
+
+
